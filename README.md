@@ -4,7 +4,40 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+
+
+
+
+
+
+
+
+
+
+
+
 In the project directory, you can run:
+
+    <h1 style={{fontSize: 'xx-large', textAlign: 'center', background: 'red' }} ><b>CineStar📽</b></h1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### `npm start`
 
